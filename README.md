@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Samuel Gillet
 #### I'm a freelance web developer
 
-I've been working with modern Javascript frameworks since 2015, and have mainly specialized in React and Node, but also enjoy building web apps and websites with other technologies depending on customer requirements.  I have experience in building fullstack web applications, e-commerce sites, and test automation frameworks like Jest and Cypress.
+I've been working with modern Javascript frameworks since 2015, and have mainly specialized in React and Node, but also enjoy building web apps and websites with other technologies depending on customer requirements.  I have experience in building fullstack web applications, e-commerce sites, and with test automation frameworks like Jest and Cypress.
 
 Skills: REACT / NODE / JS / HTML / CSS
 
