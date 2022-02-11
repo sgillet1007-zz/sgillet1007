@@ -6,7 +6,7 @@ I've been working with modern Javascript frameworks since 2015, and have mainly 
 Skills: REACT / NODE / JS / HTML / CSS
 
 - 🔭  I’m currently working at IQGeo as a QA Engineer
-- 🌱  I’m currently learning Docker, Robot Framework Test Automation, and TestRail
+- 🌱  I’m currently learning Docker, Robot Framework, and CI/CD technologies
 - 👯  I’m looking to collaborate on web projects 
 - 💬  Ask me about Javascript and web mapping technologies 
 - 😄  Pronouns: he/him/his 
