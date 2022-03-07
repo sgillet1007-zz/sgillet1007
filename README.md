@@ -3,7 +3,7 @@
 
 I've been working with modern Javascript frameworks since 2015, and have mainly specialized in React and Node, but also enjoy building web apps and websites with other technologies depending on customer requirements. I build a lot of my projects using Gatsby deployed to Netlify.
 
-Skills: REACT / NODE / JS / HTML / CSS
+Skills: REACT / NODE / JS / HTML / CSS / Python
 
 - 🔭  I’m currently working at IQGeo as a QA Engineer
 - 🌱  I’m currently learning Locust, Firebase, Docker, and CI/CD technologies
