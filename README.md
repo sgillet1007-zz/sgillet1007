@@ -8,7 +8,7 @@ Skills: REACT / NODE / JS / HTML / CSS / Python
 - 🔭  I’m currently working at IQGeo as a QA Engineer
 - 🌱  I’m currently learning Locust, Firebase, Docker, and CI/CD technologies
 - 👯  I’m looking to collaborate on web projects 
-- 💬  Ask me about Javascript and web mapping technologies 
+- 💬  Ask me about Javascript, Python and automated software testing.
 - 😄  Pronouns: he/him/his 
 
 
