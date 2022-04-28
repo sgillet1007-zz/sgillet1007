@@ -6,7 +6,7 @@ I've been working with modern Javascript frameworks since 2015, and have mainly 
 Skills: REACT / NODE / JS / HTML / CSS / Python
 
 - 🔭  I’m currently working at IQGeo as a QA Engineer
-- 🌱  I’m currently learning Locust, Firebase, Appium, Docker, and CI/CD technologies
+- 🌱  I’m currently learning Pytest, Locust, Firebase, Appium, Docker, and CI/CD technologies
 - 👯  I’m looking to collaborate on web projects 
 - 💬  Ask me about Javascript, Python and automated software testing.
 - 😄  Pronouns: he/him/his 
